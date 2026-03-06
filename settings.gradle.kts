@@ -1,2 +1,2 @@
-rootProject.name = "GdxGame"
+rootProject.name = "WildsOfAdelia"
 include("desktop", "core")

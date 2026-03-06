@@ -29,7 +29,7 @@ allprojects {
     }
 
     repositories {
-        mavenCentral() //keep an eye on this, see libgdx 1.10.0
+        mavenCentral()
     }
 
     dependencies {
